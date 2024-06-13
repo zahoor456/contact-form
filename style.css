@@ -12,13 +12,13 @@ h1{
     grid-column-gap: 20px; */
     /* grid-row-end: 20px; */
     /* ..........r     c */
-    grid-row-gap: 100px 20px;
-    grid-template-columns: auto auto ;
-    background-color: red;
-    padding: 30px;
+    /* grid-row-gap: 100px 20px; */
+    /* grid-template-columns: auto auto ; */
+    /* background-color: red; */
+    /* padding: 30px;
     margin-bottom: 40px;
     border: 10px;
-}
+} */
 
 .grid-item {
    background-color:red;
